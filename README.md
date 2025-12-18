@@ -3,22 +3,19 @@
 ## 1. Mục đích
 Tài liệu này hướng dẫn:
 - Lấy dữ liệu điểm từ trang web bằng JavaScript
-- Chuẩn hoá dữ liệu (xoá HTML, ký tự đặc biệt)
-- Xuất dữ liệu ra file `diem.json`
-- Sử dụng file `diem.json` cho phần mềm tính GPA (Java Swing)
 
 ---
 
 ## 2. Cách lấy điểm từ website (JavaScript)
 
 ### Bước 1: Mở trang web bảng điểm
-- Truy cập trang web có bảng điểm (HTML `<table>`)
+- Truy cập trang web mục điểm học phần
 - Đảm bảo bảng điểm đã tải đầy đủ
 
 ---
 
 ### Bước 2: Mở Developer Tools
-- Nhấn **F12**
+- Nhấn **F12** . K được thì tra gg tùy trình duyệt
 - Chọn tab **Console**
 
 ---
