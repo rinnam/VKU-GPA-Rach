@@ -103,3 +103,14 @@ link.click();
 
 URL.revokeObjectURL(url);
 link.remove();
+
+---
+
+Bước 4: Tải file JSON
+
+Trình duyệt sẽ tự động tải file diem.json
+
+Lưu file vào máy để sử dụng cho ứng dụng Java
+
+
+
