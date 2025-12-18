@@ -24,6 +24,8 @@ Tài liệu này hướng dẫn:
 ---
 
 ### Bước 3: Dán đoạn mã JavaScript sau vào Console
+- Đoạn này bú của ông nào đấy
+- Dán xong tải về chạy app bỏ vào thôi
 
 ```javascript
 function decodeHtmlEntities(text) {
